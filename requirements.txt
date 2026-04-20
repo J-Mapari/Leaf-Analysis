@@ -4,4 +4,3 @@ pandas
 scikit-learn
 pyyaml
 joblib
-scikit-image

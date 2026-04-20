@@ -1,5 +1,10 @@
-data/model.pkl 
-data/model.pkl 
-data/model.pkl 
-data/model.pkl 
-data/model.pkl 
+# Ignore data files
+
+data/model.pkl
+data/scaler.pkl
+
+# Ignore folders
+
+flav/
+flav_debug/
+falv_masks/
