@@ -1,136 +1,178 @@
 import os
 import cv2
-import yaml
 import pandas as pd
-import logging
 
+# import your pipeline
 from pipeline.stage1_preprocess import preprocess
 from pipeline.stage2_segment import segment_leaf
 from pipeline.stage3_features import extract_features
 
-from utils.calibration import leaf_cropper
-from utils.visualization import save_debug
+
+# -------------------------------
+# STEP 1: BUILD LABEL MAPPING
+# -------------------------------
+def build_label_mapping(csv_path):
+    df = pd.read_csv(csv_path)
+
+    mapping = {}
+
+    for _, row in df.iterrows():
+        species = row["Scientific Name"]
+        file_range = str(row["filename"])
+
+        if "-" not in file_range:
+            continue
+
+        start, end = file_range.split("-")
+        start, end = int(start), int(end)
+
+        for i in range(start, end + 1):
+            mapping[f"{i}.jpg"] = species
+
+    return mapping
 
 
 # -------------------------------
-# Logging setup
+# DEBUG SAVE
 # -------------------------------
-def setup_logging():
-    os.makedirs("logs", exist_ok=True)
+def save_debug(img, mask, contour, filename):
+    os.makedirs("data/debug", exist_ok=True)
 
-    logging.basicConfig(
-        level=logging.INFO,
-        format="%(asctime)s | %(levelname)s | %(message)s",
-        handlers=[
-            logging.FileHandler("logs/pipeline.log"),
-            logging.StreamHandler()
-        ]
-    )
+    debug = img.copy()
 
+    if contour is not None:
+        cv2.drawContours(debug, [contour], -1, (0, 0, 255), 2)
 
-def load_config():
-    with open("config.yaml") as f:
-        return yaml.safe_load(f)
+    # overlay mask
+    mask_colored = cv2.cvtColor(mask, cv2.COLOR_GRAY2BGR)
+    overlay = cv2.addWeighted(debug, 0.7, mask_colored, 0.3, 0)
+
+    cv2.imwrite(f"data/debug/{filename}", overlay)
 
 
-def run(input_folder):
+# -------------------------------
+# STEP 2: RUN PIPELINE
+# -------------------------------
+def run(input_folder, label_csv):
 
-    setup_logging()
-    logging.info("Starting pipeline")
+    label_map = build_label_mapping(label_csv)
 
-    config = load_config()
     results = []
 
     os.makedirs("data/masks", exist_ok=True)
     os.makedirs("data/debug", exist_ok=True)
+    os.makedirs("data/debug_bad", exist_ok=True)
 
     total = 0
     processed = 0
     skipped = 0
-    crop_failed = 0
+    failed = 0
 
-    for class_name in os.listdir(input_folder):
+    for file in os.listdir(input_folder):
 
-        class_path = os.path.join(input_folder, class_name)
-
-        if not os.path.isdir(class_path):
+        if not file.endswith(".jpg"):
             continue
 
-        logging.info(f"Processing class: {class_name}")
+        total += 1
 
-        for file in os.listdir(class_path):
+        path = os.path.join(input_folder, file)
 
-            total += 1
-            path = os.path.join(class_path, file)
+        img = cv2.imread(path)
 
-            img = cv2.imread(path)
+        if img is None:
+            print(f"[FAIL LOAD] {file}")
+            failed += 1
+            continue
 
-            if img is None:
-                logging.warning(f"Unreadable image: {file}")
-                skipped += 1
-                continue
+        # -----------------------
+        # Preprocess
+        # -----------------------
+        img_proc = preprocess(img)
 
-            # --- Crop ---
-            cropped = leaf_cropper(img)
-            if cropped is None:
-                logging.warning(f"Crop failed: {file}")
-                crop_failed += 1
-                continue
+        # -----------------------
+        # Segment
+        # -----------------------
+        mask, contour = segment_leaf(img_proc, config={
+            "segmentation": {
+                "hsv_lower": [20, 30, 30],
+                "hsv_upper": [95, 255, 255]
+            }
+        })
 
-            # --- Preprocess ---
-            img_proc = preprocess(cropped)
+        if mask is None:
+            print(f"[SKIP SEGMENT] {file}")
+            skipped += 1
+            continue
 
-            # --- Segment ---
-            mask, contour = segment_leaf(img_proc, config)
+        # -----------------------
+        # Save mask
+        # -----------------------
+        cv2.imwrite(f"data/masks/{file}", mask)
 
-            if mask is None:
-                logging.warning(f"Segmentation failed: {file}")
-                skipped += 1
-                continue
+        # -----------------------
+        # Features
+        # -----------------------
+        feats = extract_features(img_proc, mask)
 
-            # --- Save outputs ---
-            mask_path = f"data/masks/{file}"
-            debug_path = f"data/debug/{file}"
+        if feats is None:
+            print(f"[SKIP FEATURES] {file}")
+            skipped += 1
+            continue
 
-            cv2.imwrite(mask_path, mask)
-            save_debug(cropped, contour, debug_path)
+        # -----------------------
+        # Label
+        # -----------------------
+        species = label_map.get(file)
 
-            # --- Features ---
-            feats = extract_features(img_proc, mask)
+        if species is None:
+            print(f"[NO LABEL] {file}")
+            skipped += 1
+            continue
 
-            if feats is None:
-                logging.warning(f"Feature extraction failed: {file}")
-                skipped += 1
-                continue
+        # -----------------------
+        # Quality metric
+        # -----------------------
+        mask_quality = mask.sum() / (mask.size * 255)
 
-            feats["filename"] = file
-            feats["label"] = class_name
+        feats["filename"] = file
+        feats["species"] = species
+        feats["mask_quality"] = mask_quality
 
-            results.append(feats)
-            processed += 1
+        results.append(feats)
 
-            logging.info(f"Processed: {file}")
+        # -----------------------
+        # Save debug images
+        # -----------------------
+        save_debug(img, mask, contour, file)
+
+        # Save bad masks separately (VERY useful)
+        if mask_quality < 0.05:
+            cv2.imwrite(f"data/debug_bad/{file}", mask)
+
+        processed += 1
+
+        print(f"[OK] {file} | mask_quality={mask_quality:.3f}")
 
     # -------------------------------
-    # Save CSV
+    # SAVE CSV
     # -------------------------------
     df = pd.DataFrame(results)
     df.to_csv("data/features.csv", index=False)
 
-    logging.info("Feature extraction complete.")
-
     # -------------------------------
-    # Summary
+    # SUMMARY
     # -------------------------------
-    logging.info("----- SUMMARY -----")
-    logging.info(f"Total images: {total}")
-    logging.info(f"Processed: {processed}")
-    logging.info(f"Skipped: {skipped}")
-    logging.info(f"Crop failed: {crop_failed}")
+    print("\n===== SUMMARY =====")
+    print(f"Total:     {total}")
+    print(f"Processed: {processed}")
+    print(f"Skipped:   {skipped}")
+    print(f"Failed:    {failed}")
 
-    # --- Train ML model (optional) ---
-    # train_model("data/features.csv")
+    print("\nDONE: data/features.csv created")
 
 
+# -------------------------------
+# RUN
+# -------------------------------
 if __name__ == "__main__":
-    run("data/raw")
+    run("data/raw", "flavia_labels.csv")
