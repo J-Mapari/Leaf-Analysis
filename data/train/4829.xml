@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>4829.jpg</FileName>
+  <Date>19/09/10</Date>
+  <Type>pseudoscan</Type>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>973</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fabales Bromhead</Order>
+    <Family>Fabaceae Lindl.</Family>
+    <Genus>Laburnum Fabr.</Genus>
+    <Species>Laburnum anagyroides Medik.</Species>
+  </Taxon>
+  <ClassId>Laburnum anagyroides</ClassId>
+  <VernacularNames>Common laburnum</VernacularNames>
+  <Locality>France, Paris, Jardin des Plantes</Locality>
+  <GPSLocality>
+    <Longitude>2.3522219</Longitude>
+    <Latitude>48.856614</Latitude>
+  </GPSLocality>
+</Image>
+

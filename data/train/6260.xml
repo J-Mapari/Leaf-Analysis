@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>6260.jpg</FileName>
+  <Date>26/05/11</Date>
+  <Type>photograph</Type>
+  <Author>Francois Grand</Author>
+  <Organization>Cirad</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>862</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Cannabaceae Martinov</Family>
+    <Genus>Celtis L.</Genus>
+    <Species>Celtis australis L.</Species>
+  </Taxon>
+  <ClassId>Celtis australis</ClassId>
+  <VernacularNames>European NettleTree</VernacularNames>
+  <Locality>France, Montpellier</Locality>
+  <GPSLocality>
+    <Longitude>3.876716</Longitude>
+    <Latitude>43.610769</Latitude>
+  </GPSLocality>
+</Image>
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>7330.jpg</FileName>
+  <Date>01/07/10</Date>
+  <Type>Scan</Type>
+  <Author>Unknown</Author>
+  <Organization>Tela Botanica</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>118</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Oleaceae Hoffmanns. &amp; Link</Family>
+    <Genus>Fraxinus L.</Genus>
+    <Species>Fraxinus angustifolia Vahl</Species>
+  </Taxon>
+  <ClassId>Fraxinus angustifolia</ClassId>
+  <VernacularNames>Narrow leafed ash</VernacularNames>
+  <Locality>France, Montpellier</Locality>
+  <GPSLocality>
+    <Longitude>3.8794472217559814</Longitude>
+    <Latitude>43.60817337036133</Latitude>
+  </GPSLocality>
+</Image>
+

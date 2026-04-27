@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>10366.jpg</FileName>
+  <Date>04/10/11</Date>
+  <Type>pseudoscan</Type>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>751</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Betulaceae Gray</Family>
+    <Genus>Betula L.</Genus>
+    <Species>Betula pendula Roth</Species>
+  </Taxon>
+  <ClassId>Betula pendula</ClassId>
+  <VernacularNames>Silver birch</VernacularNames>
+  <Locality>France, Sainte-Genevieve-des-Bois</Locality>
+  <GPSLocality>
+    <Longitude>2.326859</Longitude>
+    <Latitude>48.640562</Latitude>
+  </GPSLocality>
+</Image>
+

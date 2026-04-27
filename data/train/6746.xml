@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>6746.jpg</FileName>
+  <Date>14/11/11</Date>
+  <Type>Scan</Type>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>507</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Malpighiales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Salicaceae Mirb.</Family>
+    <Genus>Salix L.</Genus>
+    <Species>Salix alba L.</Species>
+  </Taxon>
+  <ClassId>Salix alba</ClassId>
+  <VernacularNames>White willow</VernacularNames>
+  <Locality>France, Rocquencourt</Locality>
+  <GPSLocality>
+    <Longitude>2.1107619</Longitude>
+    <Latitude>48.837144</Latitude>
+  </GPSLocality>
+</Image>
+

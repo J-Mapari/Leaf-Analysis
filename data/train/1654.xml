@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>1654.jpg</FileName>
+  <Date>26/05/11</Date>
+  <Type>photograph</Type>
+  <Author>Gregoire Duche</Author>
+  <Organization>Tela Botanica</Organization>
+  <Content>Picked leaf</Content>
+  <IndividualPlantId>713</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Malvales Juss.</Order>
+    <Family>Malvaceae Juss.</Family>
+    <Genus>Tilia L.</Genus>
+    <Species>Tilia platyphyllos Scop.</Species>
+  </Taxon>
+  <ClassId>Tilia platyphyllos</ClassId>
+  <VernacularNames>Large leaved lime</VernacularNames>
+  <Locality>France, Montpellier, Rond point d'agropolis</Locality>
+  <GPSLocality>
+    <Longitude>3.876716</Longitude>
+    <Latitude>43.610769</Latitude>
+  </GPSLocality>
+</Image>
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>6880.jpg</FileName>
+  <Date>07/07/10</Date>
+  <Type>Scan</Type>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>99</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Gentianales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Apocynaceae Juss.</Family>
+    <Genus>Nerium L.</Genus>
+    <Species>Nerium oleander L.</Species>
+  </Taxon>
+  <ClassId>Nerium oleander</ClassId>
+  <VernacularNames>Oleander</VernacularNames>
+  <Locality>France, Palavas-les-Flots</Locality>
+  <GPSLocality>
+    <Longitude>3.931269407272339</Longitude>
+    <Latitude>43.52872085571289</Latitude>
+  </GPSLocality>
+</Image>
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>7384.jpg</FileName>
+  <Date>28/07/09</Date>
+  <Type>Scan</Type>
+  <Author>Sylvie Enoch</Author>
+  <Organization>Tela Botanica</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>731</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Betulaceae Gray</Family>
+    <Genus>Corylus L.</Genus>
+    <Species>Corylus avellana L.</Species>
+  </Taxon>
+  <ClassId>Corylus avellana</ClassId>
+  <VernacularNames>Common hazel</VernacularNames>
+  <Locality>France</Locality>
+  <GPSLocality>
+    <Longitude>2.213749885559082</Longitude>
+    <Latitude>46.227638244628906</Latitude>
+  </GPSLocality>
+</Image>
+

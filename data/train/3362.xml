@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3362.jpg</FileName>
+  <Date>01/11/11</Date>
+  <Type>Scan</Type>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>171</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Prunus L.</Genus>
+    <Species>Prunus avium (L.) L.</Species>
+  </Taxon>
+  <ClassId>Prunus avium</ClassId>
+  <VernacularNames>Wild cherry</VernacularNames>
+  <Locality>France, Toulouse</Locality>
+  <GPSLocality>
+    <Longitude>1.444209</Longitude>
+    <Latitude>43.604652</Latitude>
+  </GPSLocality>
+</Image>
+

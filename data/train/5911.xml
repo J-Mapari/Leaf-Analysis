@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5911.jpg</FileName>
+  <Date>06/04/11</Date>
+  <Type>photograph</Type>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>831</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Dipsacales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Adoxaceae E. Mey.</Family>
+    <Genus>Viburnum L.</Genus>
+    <Species>Viburnum lantana L.</Species>
+  </Taxon>
+  <ClassId>Viburnum lantana</ClassId>
+  <VernacularNames>WayfaringTree</VernacularNames>
+  <Locality>France, Paris, Jardin des Plantes</Locality>
+  <GPSLocality>
+    <Longitude>2.3522219</Longitude>
+    <Latitude>48.856614</Latitude>
+  </GPSLocality>
+</Image>
+

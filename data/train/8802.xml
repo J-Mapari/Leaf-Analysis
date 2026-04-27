@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>8802.jpg</FileName>
+  <Date>01/10/10</Date>
+  <Type>Scan</Type>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>5</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Sapindales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Anacardiaceae R. Br.</Family>
+    <Genus>Cotinus Mill.</Genus>
+    <Species>Cotinus coggygria Scop.</Species>
+  </Taxon>
+  <ClassId>Cotinus coggygria</ClassId>
+  <VernacularNames>Eurasian smoketree</VernacularNames>
+  <Locality>France, Montpellier</Locality>
+  <GPSLocality>
+    <Longitude>3.8794472217559814</Longitude>
+    <Latitude>43.60817337036133</Latitude>
+  </GPSLocality>
+</Image>
+

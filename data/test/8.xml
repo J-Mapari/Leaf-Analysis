@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>8.jpg</FileName>
+  <Date>20/10/11</Date>
+  <Type>Scan</Type>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Content>Leaf</Content>
+  <Locality>France, Paris</Locality>
+  <GPSLocality>
+    <Longitude>2.3461207</Longitude>
+    <Latitude>48.8763337</Latitude>
+  </GPSLocality>
+</Image>
+

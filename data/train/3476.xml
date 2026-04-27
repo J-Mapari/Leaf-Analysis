@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3476.jpg</FileName>
+  <Date>13/08/10</Date>
+  <Type>Scan</Type>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>53</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Malpighiales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Salicaceae Mirb.</Family>
+    <Genus>Salix L.</Genus>
+    <Species>Salix caprea L.</Species>
+  </Taxon>
+  <ClassId>Salix caprea</ClassId>
+  <VernacularNames>Goat willow</VernacularNames>
+  <Locality>France</Locality>
+  <GPSLocality>
+    <Longitude>5.672916889190674</Longitude>
+    <Latitude>46.762474060058594</Latitude>
+  </GPSLocality>
+</Image>
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5855.jpg</FileName>
+  <Date>14/08/09</Date>
+  <Type>Scan</Type>
+  <Author>Ruddy Benezet</Author>
+  <Organization>Tela Botanica</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>629</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fabales Bromhead</Order>
+    <Family>Fabaceae Lindl.</Family>
+    <Genus>Robinia L.</Genus>
+    <Species>Robinia pseudoacacia L.</Species>
+  </Taxon>
+  <ClassId>Robinia pseudoacacia</ClassId>
+  <VernacularNames>Black locust</VernacularNames>
+  <Locality>France</Locality>
+  <GPSLocality>
+    <Longitude>3.258363962173462</Longitude>
+    <Latitude>43.59123611450195</Latitude>
+  </GPSLocality>
+</Image>
+

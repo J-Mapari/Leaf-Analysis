@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>7898.jpg</FileName>
+  <Date>21/03/11</Date>
+  <Type>photograph</Type>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>625</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Apiales Nakai</Order>
+    <Family>Araliaceae Juss.</Family>
+    <Genus>Hedera L.</Genus>
+    <Species>Hedera helix L.</Species>
+  </Taxon>
+  <ClassId>Hedera helix</ClassId>
+  <VernacularNames>English ivy</VernacularNames>
+  <Locality>France, Montpellier</Locality>
+  <GPSLocality>
+    <Longitude>3.8794472217559814</Longitude>
+    <Latitude>43.60817337036133</Latitude>
+  </GPSLocality>
+</Image>
+

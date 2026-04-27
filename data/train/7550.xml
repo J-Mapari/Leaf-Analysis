@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>7550.jpg</FileName>
+  <Date>31/08/09</Date>
+  <Type>Scan</Type>
+  <Author>Ruddy Benezet</Author>
+  <Organization>Tela Botanica</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>207</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Oleaceae Hoffmanns. &amp; Link</Family>
+    <Genus>Olea L.</Genus>
+    <Species>Olea europaea L.</Species>
+  </Taxon>
+  <ClassId>Olea europaea</ClassId>
+  <VernacularNames>Olive tree</VernacularNames>
+  <Locality>France</Locality>
+  <GPSLocality>
+    <Longitude>3.258363962173462</Longitude>
+    <Latitude>43.59123611450195</Latitude>
+  </GPSLocality>
+</Image>
+

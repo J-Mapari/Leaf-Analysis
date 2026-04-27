@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5215.jpg</FileName>
+  <Date>23/11/11</Date>
+  <Type>Scan</Type>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>213</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Fagaceae Dumort.</Family>
+    <Genus>Quercus L.</Genus>
+    <Species>Quercus cerris L.</Species>
+  </Taxon>
+  <ClassId>Quercus cerris</ClassId>
+  <VernacularNames>Turkey oak</VernacularNames>
+  <Locality>France, Jossigny, Bois de Belle-Assise en foret de Ferrieres</Locality>
+  <GPSLocality>
+    <Longitude>2.75335</Longitude>
+    <Latitude>48.837864</Latitude>
+  </GPSLocality>
+</Image>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>4095.jpg</FileName>
+  <Date>30/04/12</Date>
+  <Type>pseudoscan</Type>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Content>Leaf</Content>
+  <Locality>France, Vincennes</Locality>
+  <GPSLocality>
+    <Longitude>2.4394969</Longitude>
+    <Latitude>48.847759</Latitude>
+  </GPSLocality>
+</Image>
+

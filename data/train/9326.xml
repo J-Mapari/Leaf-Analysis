@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>9326.jpg</FileName>
+  <Date>16/07/10</Date>
+  <Type>Scan</Type>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>643</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fabales Bromhead</Order>
+    <Family>Fabaceae Lindl.</Family>
+    <Genus>Robinia L.</Genus>
+    <Species>Robinia pseudoacacia L.</Species>
+  </Taxon>
+  <ClassId>Robinia pseudoacacia</ClassId>
+  <VernacularNames>Black locust</VernacularNames>
+  <Locality>France, Montpellier</Locality>
+  <GPSLocality>
+    <Longitude>3.8794472217559814</Longitude>
+    <Latitude>43.60817337036133</Latitude>
+  </GPSLocality>
+</Image>
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3898.jpg</FileName>
+  <Date>22/06/10</Date>
+  <Type>Scan</Type>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>727</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Ginkgoidae Engl.</Subclass>
+    <Superorder>Ginkgoidae Engl.</Superorder>
+    <Order>Ginkgoales Gorozh.</Order>
+    <Family>Ginkgoaceae Engl.</Family>
+    <Genus>Ginkgo L.</Genus>
+    <Species>Ginkgo biloba L.</Species>
+  </Taxon>
+  <ClassId>Ginkgo biloba</ClassId>
+  <VernacularNames>Ginkgo</VernacularNames>
+  <Locality>France, Paris</Locality>
+  <GPSLocality>
+    <Longitude>2.3509860038757324</Longitude>
+    <Latitude>48.856666564941406</Latitude>
+  </GPSLocality>
+</Image>
+

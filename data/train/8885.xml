@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>8885.jpg</FileName>
+  <Date>13/08/10</Date>
+  <Type>Scan</Type>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>19</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fabales Bromhead</Order>
+    <Family>Fabaceae Lindl.</Family>
+    <Genus>Laburnum Fabr.</Genus>
+    <Species>Laburnum anagyroides Medik.</Species>
+  </Taxon>
+  <ClassId>Laburnum anagyroides</ClassId>
+  <VernacularNames>Common laburnum</VernacularNames>
+  <Locality>France</Locality>
+  <GPSLocality>
+    <Longitude>5.672916889190674</Longitude>
+    <Latitude>46.762474060058594</Latitude>
+  </GPSLocality>
+</Image>
+

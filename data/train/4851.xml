@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>4851.jpg</FileName>
+  <Date>21/04/11</Date>
+  <Type>photograph</Type>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>572</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Crataegus L.</Genus>
+    <Species>Crataegus monogyna Jacq.</Species>
+  </Taxon>
+  <ClassId>Crataegus monogyna</ClassId>
+  <VernacularNames>Common hawthorn</VernacularNames>
+  <Locality>France, Paris</Locality>
+  <GPSLocality>
+    <Longitude>2.3461207</Longitude>
+    <Latitude>48.8763337</Latitude>
+  </GPSLocality>
+</Image>
+

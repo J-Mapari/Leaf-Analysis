@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>9256.jpg</FileName>
+  <Date>28/10/10</Date>
+  <Type>Scan</Type>
+  <Author>Unknown</Author>
+  <Organization>Tela Botanica</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>212</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Fagaceae Dumort.</Family>
+    <Genus>Quercus L.</Genus>
+    <Species>Quercus ilex L.</Species>
+  </Taxon>
+  <ClassId>Quercus ilex</ClassId>
+  <VernacularNames>Holm oak</VernacularNames>
+  <Locality>France</Locality>
+  <GPSLocality>
+    <Longitude>2.213749885559082</Longitude>
+    <Latitude>46.227638244628906</Latitude>
+  </GPSLocality>
+</Image>
+

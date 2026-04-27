@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>4529.jpg</FileName>
+  <Date>19/10/11</Date>
+  <Type>Scan</Type>
+  <Author>Veronique Nolan</Author>
+  <Organization>Tela Botanica</Organization>
+  <Content>Upper face</Content>
+  <IndividualPlantId>886</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Malpighiales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Salicaceae Mirb.</Family>
+    <Genus>Salix L.</Genus>
+    <Species>Salix cinerea L.</Species>
+  </Taxon>
+  <ClassId>Salix cinerea</ClassId>
+  <VernacularNames>Grey willow</VernacularNames>
+  <Locality>France, Montaut, Mathiou</Locality>
+  <GPSLocality>
+    <Longitude>-0.656</Longitude>
+    <Latitude>43.741668</Latitude>
+  </GPSLocality>
+</Image>
+

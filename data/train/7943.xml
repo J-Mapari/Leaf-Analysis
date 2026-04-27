@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>7943.jpg</FileName>
+  <Date>04/10/11</Date>
+  <Type>pseudoscan</Type>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>618</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Oleaceae Hoffmanns. &amp; Link</Family>
+    <Genus>Syringa L.</Genus>
+    <Species>Syringa vulgaris L.</Species>
+  </Taxon>
+  <ClassId>Syringa vulgaris</ClassId>
+  <VernacularNames>Common lilac</VernacularNames>
+  <Locality>France, Sainte-Genevieve-des-Bois</Locality>
+  <GPSLocality>
+    <Longitude>2.326859</Longitude>
+    <Latitude>48.640562</Latitude>
+  </GPSLocality>
+</Image>
+

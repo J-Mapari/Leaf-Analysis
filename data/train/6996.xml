@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>6996.jpg</FileName>
+  <Date>30/11/11</Date>
+  <Type>Scan</Type>
+  <Author>Eric Leguay</Author>
+  <Organization>Tela Botanica</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>514</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Prunus L.</Genus>
+    <Species>Prunus avium (L.) L.</Species>
+  </Taxon>
+  <ClassId>Prunus avium</ClassId>
+  <VernacularNames>Wild cherry</VernacularNames>
+  <Locality>France, La Neuville-en-Tourne-a-Fuy, Bois d'ami</Locality>
+  <GPSLocality>
+    <Longitude>4.377222</Longitude>
+    <Latitude>49.347778</Latitude>
+  </GPSLocality>
+</Image>
+

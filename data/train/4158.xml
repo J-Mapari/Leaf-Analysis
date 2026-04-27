@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>4158.jpg</FileName>
+  <Date>21/07/10</Date>
+  <Type>Scan</Type>
+  <Author>Daniel Barthelemy</Author>
+  <Organization>Cirad</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>667</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Betulaceae Gray</Family>
+    <Genus>Alnus Mill.</Genus>
+    <Species>Alnus glutinosa (L.) Gaertn.</Species>
+  </Taxon>
+  <ClassId>Alnus glutinosa</ClassId>
+  <VernacularNames>Black alder</VernacularNames>
+  <Locality>France, Montpellier</Locality>
+  <GPSLocality>
+    <Longitude>3.8794472217559814</Longitude>
+    <Latitude>43.60817337036133</Latitude>
+  </GPSLocality>
+</Image>
+

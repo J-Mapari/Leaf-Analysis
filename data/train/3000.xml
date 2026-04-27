@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3000.jpg</FileName>
+  <Date>01/05/90</Date>
+  <Type>photograph</Type>
+  <Author>Daniel Barthelemy</Author>
+  <Organization>Cirad</Organization>
+  <Content>Leafage</Content>
+  <IndividualPlantId>302</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Ginkgoidae Engl.</Subclass>
+    <Superorder>Ginkgoidae Engl.</Superorder>
+    <Order>Ginkgoales Gorozh.</Order>
+    <Family>Ginkgoaceae Engl.</Family>
+    <Genus>Ginkgo L.</Genus>
+    <Species>Ginkgo biloba L.</Species>
+  </Taxon>
+  <ClassId>Ginkgo biloba</ClassId>
+  <VernacularNames>Ginkgo</VernacularNames>
+  <Locality>France, Lyon</Locality>
+  <GPSLocality>
+    <Longitude>4.834327697753906</Longitude>
+    <Latitude>45.76729965209961</Latitude>
+  </GPSLocality>
+</Image>
+

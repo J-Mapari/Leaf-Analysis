@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>4733.jpg</FileName>
+  <Date>28/12/09</Date>
+  <Type>photograph</Type>
+  <Author>Daniel Barthelemy</Author>
+  <Organization>Cirad</Organization>
+  <Content>Leafage</Content>
+  <IndividualPlantId>169</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Ericales Bercht. &amp; J. Presl</Order>
+    <Family>Ericaceae Juss.</Family>
+    <Genus>Arbutus L.</Genus>
+    <Species>Arbutus unedo L.</Species>
+  </Taxon>
+  <ClassId>Arbutus unedo</ClassId>
+  <VernacularNames>Strawberry tree</VernacularNames>
+  <Locality>France, Porto pollo</Locality>
+  <GPSLocality>
+    <Longitude>8.798222541809082</Longitude>
+    <Latitude>41.72804260253906</Latitude>
+  </GPSLocality>
+</Image>
+

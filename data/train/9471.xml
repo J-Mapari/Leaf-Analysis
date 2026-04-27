@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>9471.jpg</FileName>
+  <Date>01/11/11</Date>
+  <Type>Scan</Type>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>312</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Betulaceae Gray</Family>
+    <Genus>Carpinus L.</Genus>
+    <Species>Carpinus betulus L.</Species>
+  </Taxon>
+  <ClassId>Carpinus betulus</ClassId>
+  <VernacularNames>European hornbeam</VernacularNames>
+  <Locality>France, Ozoir-la-Ferriere, Le Poirier</Locality>
+  <GPSLocality>
+    <Longitude>2.7</Longitude>
+    <Latitude>48.78</Latitude>
+  </GPSLocality>
+</Image>
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3135.jpg</FileName>
+  <Date>01/05/89</Date>
+  <Type>photograph</Type>
+  <Author>Daniel Barthelemy</Author>
+  <Organization>Cirad</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>47</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Fagaceae Dumort.</Family>
+    <Genus>Fagus L.</Genus>
+    <Species>Fagus sylvatica L.</Species>
+  </Taxon>
+  <ClassId>Fagus sylvatica</ClassId>
+  <VernacularNames>European beech</VernacularNames>
+  <Locality>France, , Massif de la Chartreuse</Locality>
+  <GPSLocality>
+    <Longitude>5.833333492279053</Longitude>
+    <Latitude>45.349998474121094</Latitude>
+  </GPSLocality>
+</Image>
+

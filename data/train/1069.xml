@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>1069.jpg</FileName>
+  <Date>15/07/10</Date>
+  <Type>Scan</Type>
+  <Author>Christine Heinz</Author>
+  <Organization>UM2</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>2</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Crataegus L.</Genus>
+    <Species>Crataegus monogyna Jacq.</Species>
+  </Taxon>
+  <ClassId>Crataegus monogyna</ClassId>
+  <VernacularNames>Common hawthorn</VernacularNames>
+  <Locality>France</Locality>
+  <GPSLocality>
+    <Longitude>3.258363962173462</Longitude>
+    <Latitude>43.59123611450195</Latitude>
+  </GPSLocality>
+</Image>
+

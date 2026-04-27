@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>8647.jpg</FileName>
+  <Date>31/08/09</Date>
+  <Type>Scan</Type>
+  <Author>Ruddy Benezet</Author>
+  <Organization>Tela Botanica</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>660</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Ginkgoidae Engl.</Subclass>
+    <Superorder>Ginkgoidae Engl.</Superorder>
+    <Order>Ginkgoales Gorozh.</Order>
+    <Family>Ginkgoaceae Engl.</Family>
+    <Genus>Ginkgo L.</Genus>
+    <Species>Ginkgo biloba L.</Species>
+  </Taxon>
+  <ClassId>Ginkgo biloba</ClassId>
+  <VernacularNames>Ginkgo</VernacularNames>
+  <Locality>France</Locality>
+  <GPSLocality>
+    <Longitude>3.258363962173462</Longitude>
+    <Latitude>43.59123611450195</Latitude>
+  </GPSLocality>
+</Image>
+

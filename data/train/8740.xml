@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>8740.jpg</FileName>
+  <Date>16/10/11</Date>
+  <Type>pseudoscan</Type>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>276</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Prunus L.</Genus>
+    <Species>Prunus dulcis (Mill.) D.A. Webb</Species>
+  </Taxon>
+  <ClassId>Prunus dulcis</ClassId>
+  <VernacularNames>Almond</VernacularNames>
+  <Locality>France, Villeneuve-les-Maguelone</Locality>
+  <GPSLocality>
+    <Longitude>3.862019</Longitude>
+    <Latitude>43.532977</Latitude>
+  </GPSLocality>
+</Image>
+

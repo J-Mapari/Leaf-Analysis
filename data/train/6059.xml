@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>6059.jpg</FileName>
+  <Date>12/10/11</Date>
+  <Type>Scan</Type>
+  <Author>Daniel Barthelemy</Author>
+  <Organization>Cirad</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>138</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Sapindales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Anacardiaceae R. Br.</Family>
+    <Genus>Rhus L.</Genus>
+    <Species>Rhus coriaria L.</Species>
+  </Taxon>
+  <ClassId>Rhus coriaria</ClassId>
+  <VernacularNames>Elm leaved sumach</VernacularNames>
+  <Locality>France, Montferrier-sur-Lez</Locality>
+  <GPSLocality>
+    <Longitude>3.8583</Longitude>
+    <Latitude>43.6696</Latitude>
+  </GPSLocality>
+</Image>
+

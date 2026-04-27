@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>4398.jpg</FileName>
+  <Date>13/08/10</Date>
+  <Type>Scan</Type>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>172</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Betulaceae Gray</Family>
+    <Genus>Betula L.</Genus>
+    <Species>Betula pendula Roth</Species>
+  </Taxon>
+  <ClassId>Betula pendula</ClassId>
+  <VernacularNames>Silver birch</VernacularNames>
+  <Locality>France</Locality>
+  <GPSLocality>
+    <Longitude>5.672916889190674</Longitude>
+    <Latitude>46.762474060058594</Latitude>
+  </GPSLocality>
+</Image>
+

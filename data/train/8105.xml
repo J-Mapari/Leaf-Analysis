@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>8105.jpg</FileName>
+  <Date>20/04/11</Date>
+  <Type>photograph</Type>
+  <Author>Sebastien Poullot</Author>
+  <Organization>Inria</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>764</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Pyrus L.</Genus>
+    <Species>Pyrus nivalis Jacq.</Species>
+  </Taxon>
+  <ClassId>Pyrus nivalis</ClassId>
+  <VernacularNames>Snow pear</VernacularNames>
+  <Locality>France, Rocquencourt, Arboretum de Chevreloup</Locality>
+  <GPSLocality>
+    <Longitude>2.1107619</Longitude>
+    <Latitude>48.837144</Latitude>
+  </GPSLocality>
+</Image>
+

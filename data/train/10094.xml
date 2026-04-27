@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>10094.jpg</FileName>
+  <Date>16/09/11</Date>
+  <Type>Scan</Type>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>563</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Prunus L</Genus>
+    <Species>Prunus padus L.</Species>
+  </Taxon>
+  <ClassId>Prunus padus</ClassId>
+  <VernacularNames>Bird cherry</VernacularNames>
+  <Locality>France, Chatenay-Malabry, Arboretum de la Vallee aux Loups</Locality>
+  <GPSLocality>
+    <Longitude>2.278056</Longitude>
+    <Latitude>48.765278</Latitude>
+  </GPSLocality>
+</Image>
+

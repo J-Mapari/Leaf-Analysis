@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3132.jpg</FileName>
+  <Date>01/06/89</Date>
+  <Type>photograph</Type>
+  <Author>Daniel Barthelemy</Author>
+  <Organization>Cirad</Organization>
+  <Content>Leafage</Content>
+  <IndividualPlantId>829</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Sapindales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Sapindaceae Juss.</Family>
+    <Genus>Acer L.</Genus>
+    <Species>Acer platanoides L.</Species>
+  </Taxon>
+  <ClassId>Acer platanoides</ClassId>
+  <VernacularNames>Norway maple</VernacularNames>
+  <Locality>France, Saint Martin le Vinous, Col de Clemenciere</Locality>
+  <GPSLocality>
+    <Longitude>5.716289043426514</Longitude>
+    <Latitude>45.203189849853516</Latitude>
+  </GPSLocality>
+</Image>
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>9040.jpg</FileName>
+  <Date>30/11/99</Date>
+  <Type>photograph</Type>
+  <Author>Daniel Barthelemy</Author>
+  <Organization>Cirad</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>266</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Dipsacales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Adoxaceae E. Mey.</Family>
+    <Genus>Sambucus L.</Genus>
+    <Species>Sambucus nigra L.</Species>
+  </Taxon>
+  <ClassId>Sambucus nigra</ClassId>
+  <VernacularNames>Black elder</VernacularNames>
+  <Locality>France, Tullins</Locality>
+  <GPSLocality>
+    <Longitude>5.483733177185059</Longitude>
+    <Latitude>45.29840850830078</Latitude>
+  </GPSLocality>
+</Image>
+

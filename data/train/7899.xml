@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>7899.jpg</FileName>
+  <Date>11/09/07</Date>
+  <Type>Scan</Type>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>717</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Betulaceae Gray</Family>
+    <Genus>Ostrya Scop.</Genus>
+    <Species>Ostrya carpinifolia Scop.</Species>
+  </Taxon>
+  <ClassId>Ostrya carpinifolia</ClassId>
+  <VernacularNames>Hop hornbeam</VernacularNames>
+  <Locality>France, Gretz-Armainvilliers, Arboretum du Val des Dames</Locality>
+  <GPSLocality>
+    <Longitude>2.7366419</Longitude>
+    <Latitude>48.7402749</Latitude>
+  </GPSLocality>
+</Image>
+

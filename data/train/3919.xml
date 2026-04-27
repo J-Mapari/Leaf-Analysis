@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3919.jpg</FileName>
+  <Date>15/08/11</Date>
+  <Type>photograph</Type>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Content>Picked leaf</Content>
+  <IndividualPlantId>35</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Sorbus L.</Genus>
+    <Species>Sorbus intermedia (Ehrh.) Pers.</Species>
+  </Taxon>
+  <ClassId>Sorbus intermedia</ClassId>
+  <VernacularNames>Swedish whitebeam</VernacularNames>
+  <Locality>France, Coulommiers, Commanderie des Templiers</Locality>
+  <GPSLocality>
+    <Longitude>3.1068</Longitude>
+    <Latitude>48.8247</Latitude>
+  </GPSLocality>
+</Image>
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>932.jpg</FileName>
+  <Date>18/10/11</Date>
+  <Type>Scan</Type>
+  <Author>Jean-Francois Molino</Author>
+  <Organization>Ird</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>40</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Apiales Nakai</Order>
+    <Family>Pittosporaceae R. Br.</Family>
+    <Genus>Pittosporum Banks ex Gaertn.</Genus>
+    <Species>Pittosporum tenuifolium Banks &amp; Sol. ex Gaertn.</Species>
+  </Taxon>
+  <ClassId>Pittosporum tenuifolium</ClassId>
+  <VernacularNames>Black matipo</VernacularNames>
+  <Locality>France, Grabels</Locality>
+  <GPSLocality>
+    <Longitude>3.797119379043579</Longitude>
+    <Latitude>43.64772033691406</Latitude>
+  </GPSLocality>
+</Image>
+

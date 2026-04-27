@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>6137.jpg</FileName>
+  <Date>21/10/11</Date>
+  <Type>pseudoscan</Type>
+  <Author>Loic L.</Author>
+  <Organization>Tela Botanica</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>509</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Sorbus L.</Genus>
+    <Species>Sorbus aucuparia L.</Species>
+  </Taxon>
+  <ClassId>Sorbus aucuparia</ClassId>
+  <VernacularNames>European rowan</VernacularNames>
+  <Locality>Switzerland, Fey</Locality>
+  <GPSLocality>
+    <Longitude>6.683056</Longitude>
+    <Latitude>46.675278</Latitude>
+  </GPSLocality>
+</Image>
+

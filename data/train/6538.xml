@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>6538.jpg</FileName>
+  <Date>10/09/11</Date>
+  <Type>photograph</Type>
+  <Author>Veronique Nolan</Author>
+  <Organization>Tela Botanica</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>1002</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Asterales Link</Order>
+    <Family>Asteraceae Bercht. &amp; J. Presl</Family>
+    <Genus>Xanthium L.</Genus>
+    <Species>Xanthium strumarium L.</Species>
+  </Taxon>
+  <ClassId>Xanthium strumarium</ClassId>
+  <VernacularNames>Rough cocklebur</VernacularNames>
+  <Locality>France, Montaut, Colline versant sud</Locality>
+  <GPSLocality>
+    <Longitude>-0.655</Longitude>
+    <Latitude>43.741667</Latitude>
+  </GPSLocality>
+</Image>
+

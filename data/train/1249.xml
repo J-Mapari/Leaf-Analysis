@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>1249.jpg</FileName>
+  <Date>21/09/11</Date>
+  <Type>pseudoscan</Type>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>891</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Betulaceae Gray</Family>
+    <Genus>Betula L.</Genus>
+    <Species>Betula pendula Roth</Species>
+  </Taxon>
+  <ClassId>Betula pendula</ClassId>
+  <VernacularNames>Silver birch</VernacularNames>
+  <Locality>Netherlands, Amsterdam</Locality>
+  <GPSLocality>
+    <Longitude>4.898014</Longitude>
+    <Latitude>52.373503</Latitude>
+  </GPSLocality>
+</Image>
+

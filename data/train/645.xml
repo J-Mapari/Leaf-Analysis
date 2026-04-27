@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>645.jpg</FileName>
+  <Date>01/05/89</Date>
+  <Type>photograph</Type>
+  <Author>Daniel Barthelemy</Author>
+  <Organization>Cirad</Organization>
+  <Content>Leafage</Content>
+  <IndividualPlantId>615</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Oleaceae Hoffmanns. &amp; Link</Family>
+    <Genus>Fraxinus L.</Genus>
+    <Species>Fraxinus excelsior L.</Species>
+  </Taxon>
+  <ClassId>Fraxinus excelsior</ClassId>
+  <VernacularNames>European ash</VernacularNames>
+  <Locality>France, Saint Pierre de Chartreuse, Col du Coq</Locality>
+  <GPSLocality>
+    <Longitude>5.813891887664795</Longitude>
+    <Latitude>45.34205627441406</Latitude>
+  </GPSLocality>
+</Image>
+

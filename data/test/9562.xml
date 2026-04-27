@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>9562.jpg</FileName>
+  <Date>02/05/12</Date>
+  <Type>photograph</Type>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Content>Leaf</Content>
+  <Locality>France, Paris, Jardin des Plantes</Locality>
+  <GPSLocality>
+    <Longitude>2.3522219</Longitude>
+    <Latitude>48.856614</Latitude>
+  </GPSLocality>
+</Image>
+

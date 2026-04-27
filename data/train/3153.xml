@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3153.jpg</FileName>
+  <Date>01/10/89</Date>
+  <Type>photograph</Type>
+  <Author>Daniel Barthelemy</Author>
+  <Organization>Cirad</Organization>
+  <Content>Leafage</Content>
+  <IndividualPlantId>654</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Sapindales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Sapindaceae Juss.</Family>
+    <Genus>Acer L.</Genus>
+    <Species>Acer platanoides L.</Species>
+  </Taxon>
+  <ClassId>Acer platanoides</ClassId>
+  <VernacularNames>Norway maple</VernacularNames>
+  <Locality>France, Saint-Bernard, Col de Marcieu</Locality>
+  <GPSLocality>
+    <Longitude>5.916677951812744</Longitude>
+    <Latitude>45.354610443115234</Latitude>
+  </GPSLocality>
+</Image>
+

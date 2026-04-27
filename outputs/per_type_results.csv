@@ -1,0 +1,13 @@
+experiment,type,accuracy
+full,Scan,0.813141683778234
+full,pseudoscan,0.6840659340659341
+full,photograph,0.09798270893371758
+shape_only,Scan,0.1919917864476386
+shape_only,pseudoscan,0.18956043956043955
+shape_only,photograph,0.0345821325648415
+texture_only,Scan,0.6232032854209446
+texture_only,pseudoscan,0.5192307692307693
+texture_only,photograph,0.069164265129683
+colour_only,Scan,0.44250513347022585
+colour_only,pseudoscan,0.42857142857142855
+colour_only,photograph,0.1037463976945245

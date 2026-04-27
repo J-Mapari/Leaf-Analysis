@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5196.jpg</FileName>
+  <Date>29/08/10</Date>
+  <Type>Scan</Type>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>25</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Fagaceae Dumort.</Family>
+    <Genus>Castanea Mill.</Genus>
+    <Species>Castanea sativa Mill.</Species>
+  </Taxon>
+  <ClassId>Castanea sativa</ClassId>
+  <VernacularNames>Sweet chestnut</VernacularNames>
+  <Locality>France, Prades</Locality>
+  <GPSLocality>
+    <Longitude>2.4214749336242676</Longitude>
+    <Latitude>42.61599349975586</Latitude>
+  </GPSLocality>
+</Image>
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>4505.jpg</FileName>
+  <Date>07/07/10</Date>
+  <Type>Scan</Type>
+  <Author>Daniel Barthelemy</Author>
+  <Organization>Cirad</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>249</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Oleaceae Hoffmanns. &amp; Link</Family>
+    <Genus>Syringa L.</Genus>
+    <Species>Syringa vulgaris L.</Species>
+  </Taxon>
+  <ClassId>Syringa vulgaris</ClassId>
+  <VernacularNames>Common lilac</VernacularNames>
+  <Locality>France</Locality>
+  <GPSLocality>
+    <Longitude>3.258363962173462</Longitude>
+    <Latitude>43.59123611450195</Latitude>
+  </GPSLocality>
+</Image>
+

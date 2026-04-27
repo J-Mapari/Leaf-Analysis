@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>2736.jpg</FileName>
+  <Date>26/05/11</Date>
+  <Type>photograph</Type>
+  <Author>Gregoire Duche</Author>
+  <Organization>Tela Botanica</Organization>
+  <Content>Picked leaf</Content>
+  <IndividualPlantId>261</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Crataegus L.</Genus>
+    <Species>Crataegus monogyna Jacq.</Species>
+  </Taxon>
+  <ClassId>Crataegus monogyna</ClassId>
+  <VernacularNames>Common hawthorn</VernacularNames>
+  <Locality>France, Montpellier, Rond point d'agropolis</Locality>
+  <GPSLocality>
+    <Longitude>3.876716</Longitude>
+    <Latitude>43.610769</Latitude>
+  </GPSLocality>
+</Image>
+

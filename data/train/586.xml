@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>586.jpg</FileName>
+  <Date>20/07/09</Date>
+  <Type>Scan</Type>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>809</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Sapindales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Sapindaceae Juss.</Family>
+    <Genus>Acer L.</Genus>
+    <Species>Acer campestre L.</Species>
+  </Taxon>
+  <ClassId>Acer campestre</ClassId>
+  <VernacularNames>Field maple</VernacularNames>
+  <Locality>France, Paris, Point3</Locality>
+  <GPSLocality>
+    <Longitude>2.6651556491851807</Longitude>
+    <Latitude>48.780982971191406</Latitude>
+  </GPSLocality>
+</Image>
+

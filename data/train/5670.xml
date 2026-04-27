@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5670.jpg</FileName>
+  <Date>13/06/10</Date>
+  <Type>photograph</Type>
+  <Author>Daniel Barthelemy</Author>
+  <Organization>Cirad</Organization>
+  <Content>Picked leaf</Content>
+  <IndividualPlantId>471</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Proteanae Takht.</Superorder>
+    <Order>Proteales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Platanaceae T. Lestib.</Family>
+    <Genus>Platanus L.</Genus>
+    <Species>Platanus x hispanica Mill. ex Münchh.</Species>
+  </Taxon>
+  <ClassId>Platanus x hispanica</ClassId>
+  <VernacularNames>Hybrid plane</VernacularNames>
+  <Locality>France, Toulon</Locality>
+  <GPSLocality>
+    <Longitude>5.9311113357543945</Longitude>
+    <Latitude>43.125160217285156</Latitude>
+  </GPSLocality>
+</Image>
+

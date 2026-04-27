@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>7214.jpg</FileName>
+  <Date>11/10/11</Date>
+  <Type>Scan</Type>
+  <Author>Daniel Barthelemy</Author>
+  <Organization>Cirad</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>50</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Buxanae Takht. ex Reveal &amp; Doweld</Superorder>
+    <Order>Buxales Takht. ex Reveal</Order>
+    <Family>Buxaceae Dumort.</Family>
+    <Genus>Buxus L.</Genus>
+    <Species>Buxus sempervirens L.</Species>
+  </Taxon>
+  <ClassId>Buxus sempervirens</ClassId>
+  <VernacularNames>European box</VernacularNames>
+  <Locality>France, Puechabon</Locality>
+  <GPSLocality>
+    <Longitude>3.618333</Longitude>
+    <Latitude>43.715278</Latitude>
+  </GPSLocality>
+</Image>
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>7171.jpg</FileName>
+  <Date>11/10/11</Date>
+  <Type>pseudoscan</Type>
+  <Author>Daniel Barthelemy</Author>
+  <Organization>Cirad</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>82</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Malpighiales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Euphorbiaceae Juss.</Family>
+    <Genus>Euphorbia L.</Genus>
+    <Species>Euphorbia characias L.</Species>
+  </Taxon>
+  <ClassId>Euphorbia characias</ClassId>
+  <VernacularNames>Mediterranean spurge</VernacularNames>
+  <Locality>France, Puechabon</Locality>
+  <GPSLocality>
+    <Longitude>3.618333</Longitude>
+    <Latitude>43.715278</Latitude>
+  </GPSLocality>
+</Image>
+

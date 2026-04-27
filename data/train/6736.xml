@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>6736.jpg</FileName>
+  <Date>24/06/09</Date>
+  <Type>Scan</Type>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>573</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Betulaceae Gray</Family>
+    <Genus>Betula L.</Genus>
+    <Species>Betula pendula Roth</Species>
+  </Taxon>
+  <ClassId>Betula pendula</ClassId>
+  <VernacularNames>Silver birch</VernacularNames>
+  <Locality>France, Roissy-en-Brie, Point6</Locality>
+  <GPSLocality>
+    <Longitude>2.6354639530181885</Longitude>
+    <Latitude>48.793209075927734</Latitude>
+  </GPSLocality>
+</Image>
+

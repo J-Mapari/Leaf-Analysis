@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>1632.jpg</FileName>
+  <Date>13/06/10</Date>
+  <Type>photograph</Type>
+  <Author>Daniel Barthelemy</Author>
+  <Organization>Cirad</Organization>
+  <Content>Picked leaf</Content>
+  <IndividualPlantId>665</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Ericales Bercht. &amp; J. Presl</Order>
+    <Family>Ericaceae Juss.</Family>
+    <Genus>Arbutus L.</Genus>
+    <Species>Arbutus unedo L.</Species>
+  </Taxon>
+  <ClassId>Arbutus unedo</ClassId>
+  <VernacularNames>Strawberry tree</VernacularNames>
+  <Locality>France, Toulon</Locality>
+  <GPSLocality>
+    <Longitude>5.9311113357543945</Longitude>
+    <Latitude>43.125160217285156</Latitude>
+  </GPSLocality>
+</Image>
+

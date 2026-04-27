@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>1459.jpg</FileName>
+  <Date>12/08/10</Date>
+  <Type>Scan</Type>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>374</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Malus Mill.</Genus>
+    <Species>Malus sylvestris Mill.</Species>
+  </Taxon>
+  <ClassId>Malus sylvestris</ClassId>
+  <VernacularNames>European wild apple</VernacularNames>
+  <Locality>France</Locality>
+  <GPSLocality>
+    <Longitude>5.672916889190674</Longitude>
+    <Latitude>46.762474060058594</Latitude>
+  </GPSLocality>
+</Image>
+

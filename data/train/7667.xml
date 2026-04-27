@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>7667.jpg</FileName>
+  <Date>15/07/10</Date>
+  <Type>Scan</Type>
+  <Author>Christine Heinz</Author>
+  <Organization>UM2</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>189</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Sapindales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Sapindaceae Juss.</Family>
+    <Genus>Acer L.</Genus>
+    <Species>Acer monspessulanum L.</Species>
+  </Taxon>
+  <ClassId>Acer monspessulanum</ClassId>
+  <VernacularNames>Montpellier maple</VernacularNames>
+  <Locality>France</Locality>
+  <GPSLocality>
+    <Longitude>3.258363962173462</Longitude>
+    <Latitude>43.59123611450195</Latitude>
+  </GPSLocality>
+</Image>
+

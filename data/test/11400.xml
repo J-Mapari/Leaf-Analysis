@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>11400.jpg</FileName>
+  <Date>12/04/11</Date>
+  <Type>photograph</Type>
+  <Author>Daniel Barthelemy</Author>
+  <Organization>Cirad</Organization>
+  <Content>Leaf</Content>
+  <Locality>Spain, Cap Roig</Locality>
+  <GPSLocality>
+    <Longitude>3.181499</Longitude>
+    <Latitude>41.885137</Latitude>
+  </GPSLocality>
+</Image>
+

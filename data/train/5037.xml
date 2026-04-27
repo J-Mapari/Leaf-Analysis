@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5037.jpg</FileName>
+  <Date>26/05/11</Date>
+  <Type>photograph</Type>
+  <Author>Francois Grand</Author>
+  <Organization>Cirad</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>858</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Ericales Bercht. &amp; J. Presl</Order>
+    <Family>Ebenaceae Gürke</Family>
+    <Genus>Diospyros L.</Genus>
+    <Species>Diospyros kaki Thunb.</Species>
+  </Taxon>
+  <ClassId>Diospyros kaki</ClassId>
+  <VernacularNames>Kaki persimmon</VernacularNames>
+  <Locality>France, Montpellier</Locality>
+  <GPSLocality>
+    <Longitude>3.876716</Longitude>
+    <Latitude>43.610769</Latitude>
+  </GPSLocality>
+</Image>
+

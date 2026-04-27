@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5010.jpg</FileName>
+  <Date>09/11/11</Date>
+  <Type>Scan</Type>
+  <Author>Loic L.</Author>
+  <Organization>Tela Botanica</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>740</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Dipsacales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Adoxaceae E. Mey.</Family>
+    <Genus>Viburnum L.</Genus>
+    <Species>Viburnum lantana L.</Species>
+  </Taxon>
+  <ClassId>Viburnum lantana</ClassId>
+  <VernacularNames>WayfaringTree</VernacularNames>
+  <Locality>Switzerland, Gland</Locality>
+  <GPSLocality>
+    <Longitude>6.266</Longitude>
+    <Latitude>46.424</Latitude>
+  </GPSLocality>
+</Image>
+

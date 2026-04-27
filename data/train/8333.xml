@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>8333.jpg</FileName>
+  <Date>24/02/11</Date>
+  <Type>pseudoscan</Type>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>203</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Ginkgoidae Engl.</Subclass>
+    <Superorder>Ginkgoidae Engl.</Superorder>
+    <Order>Ginkgoales Gorozh.</Order>
+    <Family>Ginkgoaceae Engl.</Family>
+    <Genus>Ginkgo L.</Genus>
+    <Species>Ginkgo biloba L.</Species>
+  </Taxon>
+  <ClassId>Ginkgo biloba</ClassId>
+  <VernacularNames>Ginkgo</VernacularNames>
+  <Locality>Germany, Berlin</Locality>
+  <GPSLocality>
+    <Longitude>13.411399841308594</Longitude>
+    <Latitude>52.523406982421875</Latitude>
+  </GPSLocality>
+</Image>
+

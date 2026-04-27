@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>8059.jpg</FileName>
+  <Date>17/04/11</Date>
+  <Type>photograph</Type>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>324</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Oleaceae Hoffmanns. &amp; Link</Family>
+    <Genus>Fraxinus L.</Genus>
+    <Species>Fraxinus excelsior L.</Species>
+  </Taxon>
+  <ClassId>Fraxinus excelsior</ClassId>
+  <VernacularNames>European ash</VernacularNames>
+  <Locality>France, Vienne</Locality>
+  <GPSLocality>
+    <Longitude>4.874339</Longitude>
+    <Latitude>45.525587</Latitude>
+  </GPSLocality>
+</Image>
+

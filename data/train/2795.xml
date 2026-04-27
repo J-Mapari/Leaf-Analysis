@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>2795.jpg</FileName>
+  <Date>26/05/11</Date>
+  <Type>photograph</Type>
+  <Author>Gregoire Duche</Author>
+  <Organization>Tela Botanica</Organization>
+  <Content>Picked leaf</Content>
+  <IndividualPlantId>979</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Sapindales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Anacardiaceae R. Br.</Family>
+    <Genus>Cotinus Mill.</Genus>
+    <Species>Cotinus coggygria Scop.</Species>
+  </Taxon>
+  <ClassId>Cotinus coggygria</ClassId>
+  <VernacularNames>Eurasian smoketree</VernacularNames>
+  <Locality>France, Montferrier-sur-Lez, UMR Amap</Locality>
+  <GPSLocality>
+    <Longitude>3.8582</Longitude>
+    <Latitude>43.6695</Latitude>
+  </GPSLocality>
+</Image>
+

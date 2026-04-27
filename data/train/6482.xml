@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>6482.jpg</FileName>
+  <Date>16/04/11</Date>
+  <Type>photograph</Type>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Content>Branch</Content>
+  <IndividualPlantId>588</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Oleaceae Hoffmanns. &amp; Link</Family>
+    <Genus>Fraxinus L.</Genus>
+    <Species>Fraxinus excelsior L.</Species>
+  </Taxon>
+  <ClassId>Fraxinus excelsior</ClassId>
+  <VernacularNames>European ash</VernacularNames>
+  <Locality>France, Meyssies</Locality>
+  <GPSLocality>
+    <Longitude>5.054722</Longitude>
+    <Latitude>45.471111</Latitude>
+  </GPSLocality>
+</Image>
+

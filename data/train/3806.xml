@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3806.jpg</FileName>
+  <Date>14/08/10</Date>
+  <Type>pseudoscan</Type>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>512</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Sorbus L.</Genus>
+    <Species>Sorbus aria Crantz</Species>
+  </Taxon>
+  <ClassId>Sorbus aria</ClassId>
+  <VernacularNames>Common whitebeam</VernacularNames>
+  <Locality>France</Locality>
+  <GPSLocality>
+    <Longitude>5.672916889190674</Longitude>
+    <Latitude>46.762474060058594</Latitude>
+  </GPSLocality>
+</Image>
+

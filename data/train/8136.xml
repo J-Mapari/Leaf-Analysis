@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>8136.jpg</FileName>
+  <Date>18/10/11</Date>
+  <Type>Scan</Type>
+  <Author>Jean-Francois Molino</Author>
+  <Organization>Ird</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>178</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Prunus L.</Genus>
+    <Species>Prunus laurocerasus L.</Species>
+  </Taxon>
+  <ClassId>Prunus laurocerasus</ClassId>
+  <VernacularNames>Cherry laurel</VernacularNames>
+  <Locality>France, Grabels</Locality>
+  <GPSLocality>
+    <Longitude>3.797119379043579</Longitude>
+    <Latitude>43.64772033691406</Latitude>
+  </GPSLocality>
+</Image>
+

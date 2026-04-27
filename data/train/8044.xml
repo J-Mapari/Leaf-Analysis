@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>8044.jpg</FileName>
+  <Date>30/09/11</Date>
+  <Type>Scan</Type>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>37</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Fagaceae Dumort.</Family>
+    <Genus>Quercus L.</Genus>
+    <Species>Quercus rubra L.</Species>
+  </Taxon>
+  <ClassId>Quercus rubra</ClassId>
+  <VernacularNames>Northern red oak</VernacularNames>
+  <Locality>France, Le Chesnay</Locality>
+  <GPSLocality>
+    <Longitude>2.130544</Longitude>
+    <Latitude>48.825415</Latitude>
+  </GPSLocality>
+</Image>
+

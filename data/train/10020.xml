@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>10020.jpg</FileName>
+  <Date>12/10/11</Date>
+  <Type>pseudoscan</Type>
+  <Author>Daniel Barthelemy</Author>
+  <Organization>Cirad</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>135</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Malpighiales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Salicaceae Mirb.</Family>
+    <Genus>Populus L.</Genus>
+    <Species>Populus alba L.</Species>
+  </Taxon>
+  <ClassId>Populus alba</ClassId>
+  <VernacularNames>Silver poplar</VernacularNames>
+  <Locality>France, Montferrier-sur-Lez</Locality>
+  <GPSLocality>
+    <Longitude>3.8584</Longitude>
+    <Latitude>43.6697</Latitude>
+  </GPSLocality>
+</Image>
+

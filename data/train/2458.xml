@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>2458.jpg</FileName>
+  <Date>21/04/11</Date>
+  <Type>photograph</Type>
+  <Author>Cecile G</Author>
+  <Organization>Tela Botanica</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>714</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Oleaceae Hoffmanns. &amp; Link</Family>
+    <Genus>Olea L.</Genus>
+    <Species>Olea europaea L.</Species>
+  </Taxon>
+  <ClassId>Olea europaea</ClassId>
+  <VernacularNames>Olive tree</VernacularNames>
+  <Locality>France, Marsillargues</Locality>
+  <GPSLocality>
+    <Longitude>5.369889</Longitude>
+    <Latitude>43.296346</Latitude>
+  </GPSLocality>
+</Image>
+

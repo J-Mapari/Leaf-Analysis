@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>2001.jpg</FileName>
+  <Date>05/11/10</Date>
+  <Type>photograph</Type>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Content>Leafage</Content>
+  <IndividualPlantId>39</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Oleaceae Hoffmanns. &amp; Link</Family>
+    <Genus>Olea L.</Genus>
+    <Species>Olea europaea L.</Species>
+  </Taxon>
+  <ClassId>Olea europaea</ClassId>
+  <VernacularNames>Olive tree</VernacularNames>
+  <Locality>France, Palavas-les-Flots</Locality>
+  <GPSLocality>
+    <Longitude>3.931269407272339</Longitude>
+    <Latitude>43.52872085571289</Latitude>
+  </GPSLocality>
+</Image>
+

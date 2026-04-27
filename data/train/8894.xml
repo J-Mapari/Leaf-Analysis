@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>8894.jpg</FileName>
+  <Date>12/06/09</Date>
+  <Type>photograph</Type>
+  <Author>Daniel Barthelemy</Author>
+  <Organization>Cirad</Organization>
+  <Content>Leafage</Content>
+  <IndividualPlantId>778</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Moraceae Gaudich.</Family>
+    <Genus>Ficus L.</Genus>
+    <Species>Ficus carica L.</Species>
+  </Taxon>
+  <ClassId>Ficus carica</ClassId>
+  <VernacularNames>Common fig</VernacularNames>
+  <Locality>France, Ile de Groix</Locality>
+  <GPSLocality>
+    <Longitude>-3.4629995</Longitude>
+    <Latitude>47.6376934</Latitude>
+  </GPSLocality>
+</Image>
+

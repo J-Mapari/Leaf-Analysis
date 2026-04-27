@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>1147.jpg</FileName>
+  <Date>18/10/11</Date>
+  <Type>pseudoscan</Type>
+  <Author>Loic L.</Author>
+  <Organization>Tela Botanica</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>396</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Magnolianae Takht.</Superorder>
+    <Order>Magnoliales Bromhead</Order>
+    <Family>Magnoliaceae Juss.</Family>
+    <Genus>Liriodendron L.</Genus>
+    <Species>Liriodendron tulipifera L.</Species>
+  </Taxon>
+  <ClassId>Liriodendron tulipifera</ClassId>
+  <VernacularNames>American tulip tree</VernacularNames>
+  <Locality>Switzerland, Lausanne, Parc de l'hermitage</Locality>
+  <GPSLocality>
+    <Longitude>6.636</Longitude>
+    <Latitude>46.524</Latitude>
+  </GPSLocality>
+</Image>
+

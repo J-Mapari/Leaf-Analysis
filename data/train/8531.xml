@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>8531.jpg</FileName>
+  <Date>20/04/11</Date>
+  <Type>photograph</Type>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>789</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Sapindales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Sapindaceae Juss.</Family>
+    <Genus>Acer L.</Genus>
+    <Species>Acer platanoides L.</Species>
+  </Taxon>
+  <ClassId>Acer platanoides</ClassId>
+  <VernacularNames>Norway maple</VernacularNames>
+  <Locality>France, Rocquencourt</Locality>
+  <GPSLocality>
+    <Longitude>2.1107619</Longitude>
+    <Latitude>48.837144</Latitude>
+  </GPSLocality>
+</Image>
+

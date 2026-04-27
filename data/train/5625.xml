@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5625.jpg</FileName>
+  <Date>26/08/09</Date>
+  <Type>Scan</Type>
+  <Author>Ruddy Benezet</Author>
+  <Organization>Tela Botanica</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>107</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Ericales Bercht. &amp; J. Presl</Order>
+    <Family>Ebenaceae Gürke</Family>
+    <Genus>Diospyros L.</Genus>
+    <Species>Diospyros kaki Thunb.</Species>
+  </Taxon>
+  <ClassId>Diospyros kaki</ClassId>
+  <VernacularNames>Kaki persimmon</VernacularNames>
+  <Locality>France</Locality>
+  <GPSLocality>
+    <Longitude>3.258363962173462</Longitude>
+    <Latitude>43.59123611450195</Latitude>
+  </GPSLocality>
+</Image>
+

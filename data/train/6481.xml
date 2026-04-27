@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>6481.jpg</FileName>
+  <Date>30/10/11</Date>
+  <Type>pseudoscan</Type>
+  <Author>Jean-Francois Molino</Author>
+  <Organization>Ird</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>526</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Sapindales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Anacardiaceae R. Br.</Family>
+    <Genus>Pistacia L.</Genus>
+    <Species>Pistacia terebinthus L.</Species>
+  </Taxon>
+  <ClassId>Pistacia terebinthus</ClassId>
+  <VernacularNames>Turpentine tree</VernacularNames>
+  <Locality>France, Vailhauques</Locality>
+  <GPSLocality>
+    <Longitude>3.718611</Longitude>
+    <Latitude>43.673333</Latitude>
+  </GPSLocality>
+</Image>
+

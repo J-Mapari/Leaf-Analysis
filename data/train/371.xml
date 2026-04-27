@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>371.jpg</FileName>
+  <Date>29/10/11</Date>
+  <Type>pseudoscan</Type>
+  <Author>Jean-Francois Molino</Author>
+  <Organization>Ird</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>180</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Moraceae Gaudich.</Family>
+    <Genus>Ficus L.</Genus>
+    <Species>Ficus carica L.</Species>
+  </Taxon>
+  <ClassId>Ficus carica</ClassId>
+  <VernacularNames>Common fig</VernacularNames>
+  <Locality>France, Grabels</Locality>
+  <GPSLocality>
+    <Longitude>3.797119379043579</Longitude>
+    <Latitude>43.64772033691406</Latitude>
+  </GPSLocality>
+</Image>
+

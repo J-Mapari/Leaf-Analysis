@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>1701.jpg</FileName>
+  <Date>10/06/07</Date>
+  <Type>Scan</Type>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>407</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Betulaceae Gray</Family>
+    <Genus>Betula L.</Genus>
+    <Species>Betula pubescens Ehrh.</Species>
+  </Taxon>
+  <ClassId>Betula pubescens</ClassId>
+  <VernacularNames>European white birch</VernacularNames>
+  <Locality>France, Croissy-Beaubourg, Foret de Ferrieres</Locality>
+  <GPSLocality>
+    <Longitude>2.6606</Longitude>
+    <Latitude>48.8292</Latitude>
+  </GPSLocality>
+</Image>
+

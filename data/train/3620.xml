@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3620.jpg</FileName>
+  <Date>22/05/10</Date>
+  <Type>photograph</Type>
+  <Author>Daniel Barthelemy</Author>
+  <Organization>Cirad</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>461</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Betulaceae Gray</Family>
+    <Genus>Corylus L.</Genus>
+    <Species>Corylus avellana L.</Species>
+  </Taxon>
+  <ClassId>Corylus avellana</ClassId>
+  <VernacularNames>Common hazel</VernacularNames>
+  <Locality>France, Tullins</Locality>
+  <GPSLocality>
+    <Longitude>5.483733177185059</Longitude>
+    <Latitude>45.29840850830078</Latitude>
+  </GPSLocality>
+</Image>
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>9779.jpg</FileName>
+  <Date>30/07/09</Date>
+  <Type>Scan</Type>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>393</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Betulaceae Gray</Family>
+    <Genus>Corylus L.</Genus>
+    <Species>Corylus avellana L.</Species>
+  </Taxon>
+  <ClassId>Corylus avellana</ClassId>
+  <VernacularNames>Common hazel</VernacularNames>
+  <Locality>France, Pontcarre, Point12</Locality>
+  <GPSLocality>
+    <Longitude>2.72391676902771</Longitude>
+    <Latitude>48.791568756103516</Latitude>
+  </GPSLocality>
+</Image>
+

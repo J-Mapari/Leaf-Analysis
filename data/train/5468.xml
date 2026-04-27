@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5468.jpg</FileName>
+  <Date>13/06/10</Date>
+  <Type>photograph</Type>
+  <Author>Daniel Barthelemy</Author>
+  <Organization>Cirad</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>199</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Cannabaceae Martinov</Family>
+    <Genus>Celtis L.</Genus>
+    <Species>Celtis australis L.</Species>
+  </Taxon>
+  <ClassId>Celtis australis</ClassId>
+  <VernacularNames>European NettleTree</VernacularNames>
+  <Locality>France, Toulon</Locality>
+  <GPSLocality>
+    <Longitude>5.9311113357543945</Longitude>
+    <Latitude>43.125160217285156</Latitude>
+  </GPSLocality>
+</Image>
+

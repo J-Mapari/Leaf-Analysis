@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>10409.jpg</FileName>
+  <Date>11/10/11</Date>
+  <Type>Scan</Type>
+  <Author>Daniel Barthelemy</Author>
+  <Organization>Cirad</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>254</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Malvales Juss.</Order>
+    <Family>Thymelaeaceae Juss.</Family>
+    <Genus>Daphne L.</Genus>
+    <Species>Daphne cneorum L.</Species>
+  </Taxon>
+  <ClassId>Daphne cneorum</ClassId>
+  <VernacularNames>Rose daphne</VernacularNames>
+  <Locality>France, Puechabon</Locality>
+  <GPSLocality>
+    <Longitude>3.618333</Longitude>
+    <Latitude>43.715278</Latitude>
+  </GPSLocality>
+</Image>
+

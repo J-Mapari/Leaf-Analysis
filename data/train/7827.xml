@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>7827.jpg</FileName>
+  <Date>01/11/11</Date>
+  <Type>Scan</Type>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>584</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fabales Bromhead</Order>
+    <Family>Fabaceae Lindl.</Family>
+    <Genus>Colutea L.</Genus>
+    <Species>Colutea arborescens L.</Species>
+  </Taxon>
+  <ClassId>Colutea arborescens</ClassId>
+  <VernacularNames>Bladder senna</VernacularNames>
+  <Locality>France, Pontault-Combault, Garenne de Pontillault en foret Notre-Dame</Locality>
+  <GPSLocality>
+    <Longitude>2.60752</Longitude>
+    <Latitude>48.80136</Latitude>
+  </GPSLocality>
+</Image>
+

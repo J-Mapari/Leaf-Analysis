@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3188.jpg</FileName>
+  <Date>03/06/09</Date>
+  <Type>Scan</Type>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>93</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Sapindales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Sapindaceae Juss.</Family>
+    <Genus>Acer L.</Genus>
+    <Species>Acer campestre L.</Species>
+  </Taxon>
+  <ClassId>Acer campestre</ClassId>
+  <VernacularNames>Field maple</VernacularNames>
+  <Locality>France, Roissy-en-Brie, Point2</Locality>
+  <GPSLocality>
+    <Longitude>2.637611150741577</Longitude>
+    <Latitude>48.79141616821289</Latitude>
+  </GPSLocality>
+</Image>
+

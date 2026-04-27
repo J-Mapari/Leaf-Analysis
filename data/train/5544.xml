@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5544.jpg</FileName>
+  <Date>23/10/11</Date>
+  <Type>Scan</Type>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>417</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Betulaceae Gray</Family>
+    <Genus>Alnus Mill.</Genus>
+    <Species>Alnus glutinosa (L.) Gaertn.</Species>
+  </Taxon>
+  <ClassId>Alnus glutinosa</ClassId>
+  <VernacularNames>Black alder</VernacularNames>
+  <Locality>France, Roissy-en-France, Les Vieilles Vignes</Locality>
+  <GPSLocality>
+    <Longitude>2.516978</Longitude>
+    <Latitude>49.00363</Latitude>
+  </GPSLocality>
+</Image>
+

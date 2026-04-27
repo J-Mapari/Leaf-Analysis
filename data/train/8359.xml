@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>8359.jpg</FileName>
+  <Date>10/09/11</Date>
+  <Type>Scan</Type>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Content>Leaf</Content>
+  <IndividualPlantId>808</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Sorbus L.</Genus>
+    <Species>Sorbus latifolia L.</Species>
+  </Taxon>
+  <ClassId>Sorbus latifolia</ClassId>
+  <VernacularNames>Service tree of Fontainebleau</VernacularNames>
+  <Locality>France, Nogent-sur-Vernisson, Arboretum des Barres</Locality>
+  <GPSLocality>
+    <Longitude>2.741782</Longitude>
+    <Latitude>47.846388</Latitude>
+  </GPSLocality>
+</Image>
+

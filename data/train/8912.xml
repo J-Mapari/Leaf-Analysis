@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>8912.jpg</FileName>
+  <Date>30/10/11</Date>
+  <Type>photograph</Type>
+  <Author>Genevieve Botti</Author>
+  <Organization>Tela Botanica</Organization>
+  <Content>Branch</Content>
+  <IndividualPlantId>724</IndividualPlantId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Sapindales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Sapindaceae Juss.</Family>
+    <Genus>Acer L.</Genus>
+    <Species>Acer opalus Mill.</Species>
+  </Taxon>
+  <ClassId>Acer opalus</ClassId>
+  <VernacularNames>Italian maple</VernacularNames>
+  <Locality>France, Plan-d'Aups-Sainte-Baume, Hostellerie</Locality>
+  <GPSLocality>
+    <Longitude>5.715282</Longitude>
+    <Latitude>43.33065</Latitude>
+  </GPSLocality>
+</Image>
+
